@@ -1,4 +1,1 @@
-<img width="428" height="231" alt="image" src="https://github.com/user-attachments/assets/e6c00ea6-e095-4495-8060-6015fd63ca6e" />
-
-
-- no TC.
+We test whether allocation improves with richer information and conditioning. An information ladder spans equal weight through MVO, while a conditioning ladder compares trailing and HMM-conditioned moments. Portfolios use monthly rebalancing, common leverage constraints, Ledoit–Wolf covariance, turnover costs, and identical OOS evaluation with bootstrap Sharpe inference.
